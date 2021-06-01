@@ -1,0 +1,34 @@
+{
+    "name": "shades",
+    "displayName": "shades",
+    "description": "",
+    "version": "1.0.0",
+    "author":{
+        "name":"Ansh Sarkar"
+    },
+    "publisher": "solvable",
+    "license" : "MIT",
+    "homepage": "",
+    "keywords": [
+        "vscode dark theme",
+        "shades of code",
+        "shades of dark",
+        "hacker theme"
+    ],
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "vscode.jpg",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shades",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shades-color-theme.json"
+            }
+        ]
+    }
+}
