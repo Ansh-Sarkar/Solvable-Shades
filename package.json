@@ -21,7 +21,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "vscode.jpg",
+    "icon": "https://github.com/Ansh-Sarkar/Ansh-Sarkar/blob/main/images/vscode.jpg",
     "contributes": {
         "themes": [
             {
