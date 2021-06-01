@@ -22,7 +22,7 @@
         "Themes"
     ],
     "repository": "https://github.com/Ansh-Sarkar/Solvable-Shades/tree/master",
-    "icon": "https://github.com/Ansh-Sarkar/Ansh-Sarkar/blob/main/images/vscode.jpg",
+    "icon": "vscode.jpg",
     "contributes": {
         "themes": [
             {
