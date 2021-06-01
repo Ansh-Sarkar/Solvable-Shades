@@ -1,7 +1,7 @@
 {
     "name": "shades",
     "displayName": "Shades of Code",
-    "description": "",
+    "description": "A VSCode Theme 💚 to provide a contrasting colour scheme to programmers 👨‍💻 for easier and more efficient coding .",
     "version": "1.0.1",
     "author":{
         "name":"Ansh Sarkar"
