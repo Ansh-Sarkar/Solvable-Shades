@@ -5,3 +5,8 @@
 Shades is a colour theme which was made keeping in mind the high contrast which programmers often demand in order to be able to perform faster coding , greater legibility and to impart a somewhat soothing effect when exposed to long hours of screen time .
 
 <img src = "https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/main/images/extension.jpg">
+
+#
+
+**Developed By** : [Ansh Sarkar](https://www.linkedin.com/in/ansh-sarkar/) <br/>
+**Github** : [Cyclopstark](https://github.com/cyclopstark) & [Seraphim-Coder](https://github.com/ansh-sarkar)
