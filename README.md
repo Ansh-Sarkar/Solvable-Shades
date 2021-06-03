@@ -1,2 +1,1 @@
-# Solvable-Shades
-CSchema
+# Shades of Code
