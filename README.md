@@ -1,5 +1,5 @@
-Kindly switch to the master branch for viewing the code : **https://github.com/Ansh-Sarkar/Solvable-Shades/tree/master** <br/>
-Marketplace Link : **https://marketplace.visualstudio.com/items?itemName=Solvable.shades**
+Kindly switch to the master branch for viewing the code : [here](https://github.com/Ansh-Sarkar/Solvable-Shades/tree/master) <br/>
+Marketplace Link : [here](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)
 
 # Shades of Code Colour Theme
 
