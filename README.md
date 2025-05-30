@@ -9,4 +9,4 @@ Shades of Code is a colour theme which was made keeping in mind the high contras
 #
 
 **Developed By** : [Ansh Sarkar](https://www.linkedin.com/in/ansh-sarkar/) <br/>
-**Github** : [Cyclopstark](https://github.com/cyclopstark) & [Seraphim-Coder](https://github.com/ansh-sarkar)
+**Github** :  [Seraphim-Coder](https://github.com/ansh-sarkar)
