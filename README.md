@@ -12,9 +12,7 @@
 
 🎉 **10k+ downloads and counting!**
 
-**Shades of Code** is a colour theme designed with high contrast in mind ⚡, keeping in focus what programmers often demand for faster coding 💻, better legibility 👀, and a soothing visual experience 🌙 during long hours of screen time.
-
-The theme aims to strike a balance between performance and comfort, helping reduce visual strain while maintaining clarity across the editor.
+**Shades of Code** is a colour theme designed with high contrast in mind ⚡, keeping in focus what programmers often demand for faster coding 💻, better legibility 👀, and a soothing visual experience 🌙 during long hours of screen time. The theme aims to strike a balance between performance and comfort, helping reduce visual strain while maintaining clarity across the editor.
 
 Marketplace Link 👉 [here](https://marketplace.visualstudio.com/items?itemName=Solvable.shades) <br/>
 Kindly switch to the **master branch** to view the source code 👉 [here](https://github.com/Ansh-Sarkar/Solvable-Shades/tree/master)  
