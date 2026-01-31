@@ -3,7 +3,7 @@
 # 🎨 Shades of Code Colour Theme
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Maintenance](https://img.shields.io/maintenance/yes/2025)
+![Maintenance](https://img.shields.io/maintenance/yes/2026)
 ![GitHub contributors](https://img.shields.io/github/contributors/ansh-sarkar/solvable-shades)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ansh-sarkar/solvable-shades)
 ![node-current](https://img.shields.io/node/v/yo)
